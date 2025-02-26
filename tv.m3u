@@ -29,7 +29,7 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场4K.png" group-title="4K频道",SiTV欢笑剧场4K
 http://192.168.2.1:50101/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://192.168.2.1:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
+http://192.168.2.1:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
 http://192.168.2.1:50101/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
