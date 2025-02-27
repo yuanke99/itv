@@ -212,8 +212,6 @@ http://192.168.2.1:50101/1000000001000001910/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://json.doube.eu.org/logo/纪实科教.png" group-title="卫视频道",北京纪实科教
 http://192.168.2.1:50101/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://json.doube.eu.org/logo/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
-http://192.168.2.1:50101/7851974109718180595/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://json.doube.eu.org/logo/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
 http://192.168.2.1:50101/1000000002000002413/bestzb/index.m3u8$4M576_易视腾
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://json.doube.eu.org/logo/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
 http://192.168.2.1:50101/6000000003000002709/bestzb/index.m3u8$1.8M576_华数
@@ -235,8 +233,6 @@ http://192.168.2.1:50101/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
 http://192.168.2.1:50101/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://json.doube.eu.org/logo/东南卫视.png" group-title="卫视频道",福建东南卫视
 http://192.168.2.1:50101/1000000002000009263/bestzb/index.m3u8$4M1080_易视腾
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://192.168.2.1:50101/5000000011000031121/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://192.168.2.1:50101/1000000002000017827/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
