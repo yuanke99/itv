@@ -411,8 +411,6 @@ http://192.168.2.1:50101/5000000011000288006/bestzb/index.m3u8
 http://192.168.2.1:50101/5000000011000288007/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",电竞天堂
 http://192.168.2.1:50101/5000000011000288003/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",晴彩少年
-http://192.168.2.1:50101/1000000006000270007/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="湖南频道",湖南卫视
 http://192.168.2.1:50101/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="湖南频道",湖南卫视
