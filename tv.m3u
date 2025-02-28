@@ -113,8 +113,6 @@ http://192.168.2.1:50101/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
 http://192.168.2.1:50101/1000000002000019789/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://192.168.2.1:50101/1000000001000032494/bestzb/index.m3u8$8M1080_易视腾
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
 http://192.168.2.1:50101/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
 http://192.168.2.1:50101/1000000005000265012/bestzb/index.m3u8$5.5M1080HEVC_易视腾
