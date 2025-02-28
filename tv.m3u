@@ -50,8 +50,6 @@ http://192.168.2.1:50101/1000000005000265005/bestzb/index.m3u8$5.5M1080HEVC_易�
 http://192.168.2.1:50101/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
 http://192.168.2.1:50101/1000000001000004794/bestzb/index.m3u8$4M1080_易视腾
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.2.1:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
 http://192.168.2.1:50101/1000000001000018504/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
