@@ -34,6 +34,8 @@ http://192.168.2.1:50101/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视�
 http://192.168.2.1:50101/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
 http://192.168.2.1:50101/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
+http://192.168.2.1:50101/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
 http://192.168.2.1:50101/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
