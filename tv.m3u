@@ -25,442 +25,445 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 group-title="海外",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
-#EXTM3U x-tvg-url="https://epg.doube.eu.org/epg.xml"
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
+http://192.168.2.1:50101/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场4K.png" group-title="4K频道",SiTV欢笑剧场4K
-http://192.168.2.1:50101/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
+http://192.168.2.1:50101/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://json.doube.eu.org/logo/华数4K.png" group-title="4K频道",华数4K
+http://192.168.2.1:50101/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
 http://192.168.2.1:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://192.168.2.1:50101/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://192.168.2.1:50101/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视频道",CCTV2 财经
 http://192.168.2.1:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://192.168.2.1:50101/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://192.168.2.1:50101/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视频道",CCTV3 综艺
 http://192.168.2.1:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
-http://192.168.2.1:50101/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
-http://192.168.2.1:50101/5000000002000020548/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000020548/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视频道",CCTV4 中文国际
 http://192.168.2.1:35455/gaoma/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV4 中文国际
-http://192.168.2.1:50101/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV4 中文国际
-http://192.168.2.1:50101/5000000005000030093/bestzb/index.m3u8$4M720_百视通
+http://192.168.2.1:50101/TVOD/5000000005000030093/bestzb/index.m3u8$4M720_百视通
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视频道",CCTV5 体育
 http://192.168.2.1:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
-http://192.168.2.1:50101/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
-http://192.168.2.1:50101/1000000005000265005/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265005/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
-http://192.168.2.1:50101/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
-http://192.168.2.1:50101/1000000001000004794/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000004794/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视频道",CCTV5+ 体育赛事
 http://192.168.2.1:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.2.1:50101/1000000001000018504/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000018504/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.2.1:50101/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.2.1:50101/1000000005000265016/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265016/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://192.168.2.1:50101/1000000001000020505/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000020505/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
-http://192.168.2.1:50101/5000000004000008886/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000008886/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
-http://192.168.2.1:50101/1000000005000265006/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265006/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
-http://192.168.2.1:50101/5000000010000018433/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000018433/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
-http://192.168.2.1:50101/1000000001000016466/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000016466/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
 http://192.168.2.1:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.2.1:50101/1000000001000024341/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000024341/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.2.1:50101/5000000011000031104/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031104/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.2.1:50101/1000000005000265007/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265007/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.2.1:50101/1000000001000017218/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000017218/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://192.168.2.1:50101/5000000005000026715/bestzb/index.m3u8$4M720_百视通
+http://192.168.2.1:50101/TVOD/5000000005000026715/bestzb/index.m3u8$4M720_百视通
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视频道",CCTV8 电视剧
 http://192.168.2.1:35455/gaoma/cctv8.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/6000000001000001070/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000001070/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/1000000001000031433/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000031433/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/5000000004000008888/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000008888/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/1000000005000265008/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265008/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/5000000010000018377/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000018377/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://192.168.2.1:50101/1000000001000003736/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000003736/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视频道",CCTV9 记录
 http://192.168.2.1:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
-http://192.168.2.1:50101/6000000001000032162/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000032162/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
-http://192.168.2.1:50101/1000000001000014583/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000014583/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
-http://192.168.2.1:50101/5000000010000018384/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000018384/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
-http://192.168.2.1:50101/1000000001000028286/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000028286/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视频道",CCTV10 科教
 http://192.168.2.1:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://192.168.2.1:50101/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://192.168.2.1:50101/6000000001000031506/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000031506/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://192.168.2.1:50101/1000000001000023734/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000023734/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://192.168.2.1:50101/5000000010000016738/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000016738/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://192.168.2.1:50101/1000000001000026367/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000026367/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视频道",CCTV11 戏曲
 http://192.168.2.1:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
-http://192.168.2.1:50101/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
-http://192.168.2.1:50101/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
-http://192.168.2.1:50101/1000000002000019789/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000019789/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视频道",CCTV12 社会与法
 http://192.168.2.1:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://192.168.2.1:50101/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://192.168.2.1:50101/1000000005000265012/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265012/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://192.168.2.1:50101/5000000006000040012/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040012/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视频道",CCTV13 新闻
 http://192.168.2.1:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视频道",CCTV13 新闻
-http://192.168.2.1:50101/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视频道",CCTV13 新闻
-http://192.168.2.1:50101/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视频道",CCTV13 新闻
-http://192.168.2.1:50101/1000000002000021303/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000021303/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视频道",CCTV14 少儿
 http://192.168.2.1:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.2.1:50101/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.2.1:50101/1000000001000008170/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000008170/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.2.1:50101/1000000005000265013/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265013/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.2.1:50101/5000000010000023358/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000023358/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://192.168.2.1:50101/1000000001000021349/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000021349/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视频道",CCTV15 音乐
 http://192.168.2.1:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
-http://192.168.2.1:50101/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
-http://192.168.2.1:50101/1000000005000265014/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265014/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
-http://192.168.2.1:50101/1000000002000008163/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000008163/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视频道",CCTV16 奥林匹克
 http://192.168.2.1:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
-http://192.168.2.1:50101/1000000006000233002/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000006000233002/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
-http://192.168.2.1:50101/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
-http://192.168.2.1:50101/1000000006000233001/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000006000233001/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视频道",CCTV17 农业农村
 http://192.168.2.1:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://192.168.2.1:50101/1000000006000268004/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000006000268004/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://192.168.2.1:50101/1000000005000265015/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265015/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://192.168.2.1:50101/1000000005000056836/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000056836/bestzb/index.m3u8$4M1080_易视腾
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://json.doube.eu.org/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://192.168.2.1:50101/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://json.doube.eu.org/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://192.168.2.1:50101/1000000005000265025/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265025/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://json.doube.eu.org/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://192.168.2.1:50101/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://json.doube.eu.org/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://192.168.2.1:50101/1000000001000020780/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000020780/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://json.doube.eu.org/logo/纪实科教.png" group-title="卫视频道",北京纪实科教
-http://192.168.2.1:50101/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/6000000001000020451/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000020451/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/1000000001000021288/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000021288/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/5000000004000031556/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000031556/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/1000000005000265027/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265027/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.2.1:50101/1000000001000017156/bestzb/index.m3u8$4M1080_易视通
+http://192.168.2.1:50101/TVOD/1000000001000017156/bestzb/index.m3u8$4M1080_易视通
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://json.doube.eu.org/logo/东南卫视.png" group-title="卫视频道",福建东南卫视
-http://192.168.2.1:50101/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://json.doube.eu.org/logo/东南卫视.png" group-title="卫视频道",福建东南卫视
-http://192.168.2.1:50101/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://json.doube.eu.org/logo/东南卫视.png" group-title="卫视频道",福建东南卫视
-http://192.168.2.1:50101/1000000002000009263/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000009263/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://192.168.2.1:50101/1000000002000017827/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000017827/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://192.168.2.1:50101/5000000006000040021/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040021/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/5000000004000014694/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000014694/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/6000000001000031076/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000031076/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/1000000001000014176/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000014176/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/1000000005000265034/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265034/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/5000000010000030417/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000030417/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://192.168.2.1:50101/1000000001000028357/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000028357/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://json.doube.eu.org/logo/广东珠江.png" group-title="卫视频道",广东珠江
-http://192.168.2.1:50101/1000000004000011655/bestzb/index.m3u8$2.5M720_易视腾
+http://192.168.2.1:50101/TVOD/1000000004000011655/bestzb/index.m3u8$2.5M720_易视腾
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://json.doube.eu.org/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://192.168.2.1:50101/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://json.doube.eu.org/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://192.168.2.1:50101/1000000002000019837/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000019837/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://json.doube.eu.org/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://192.168.2.1:50101/5000000006000040014/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040014/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://json.doube.eu.org/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://192.168.2.1:50101/5000000004000025843/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000025843/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://json.doube.eu.org/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://192.168.2.1:50101/1000000002000003169/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000003169/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://json.doube.eu.org/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://192.168.2.1:50101/5000000004000006211/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006211/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://json.doube.eu.org/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://192.168.2.1:50101/1000000002000023773/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000023773/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://json.doube.eu.org/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://192.168.2.1:50101/5000000006000040016/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040016/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://json.doube.eu.org/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://192.168.2.1:50101/1000000002000017118/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000017118/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://json.doube.eu.org/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://192.168.2.1:50101/5000000011000031119/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031119/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://json.doube.eu.org/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://192.168.2.1:50101/5000000005000017925/bestzb/index.m3u8$4M720_百视通
+http://192.168.2.1:50101/TVOD/5000000005000017925/bestzb/index.m3u8$4M720_百视通
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://json.doube.eu.org/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://192.168.2.1:50101/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://json.doube.eu.org/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://192.168.2.1:50101/1000000005000265029/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265029/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://json.doube.eu.org/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://192.168.2.1:50101/5000000010000031107/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000031107/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://json.doube.eu.org/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://192.168.2.1:50101/1000000001000009082/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000009082/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://json.doube.eu.org/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://192.168.2.1:50101/5000000004000014954/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000014954/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://json.doube.eu.org/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://192.168.2.1:50101/1000000005000265023/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265023/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://json.doube.eu.org/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://192.168.2.1:50101/5000000010000022140/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000022140/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://json.doube.eu.org/logo/茶频道.png" group-title="湖南频道",湖南茶频道
-http://192.168.2.1:50101/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://json.doube.eu.org/logo/金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
-http://192.168.2.1:50101/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://json.doube.eu.org/logo/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
-http://192.168.2.1:50101/5000000006000040024/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040024/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://json.doube.eu.org/logo/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
-http://192.168.2.1:50101/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.2.1:50101/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.2.1:50101/6000000001000018044/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000018044/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.2.1:50101/1000000005000265024/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265024/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.2.1:50101/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.2.1:50101/1000000001000009115/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000009115/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://json.doube.eu.org/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://192.168.2.1:50101/5000000011000031117/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031117/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://json.doube.eu.org/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://192.168.2.1:50101/1000000002000027730/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000027730/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://json.doube.eu.org/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://192.168.2.1:50101/5000000006000040013/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040013/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.2.1:50101/5000000004000019351/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000019351/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.2.1:50101/1000000005000265030/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265030/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.2.1:50101/5000000010000018509/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000018509/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.2.1:50101/1000000001000004684/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000004684/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://json.doube.eu.org/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://192.168.2.1:50101/1000000006000268001/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000006000268001/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://json.doube.eu.org/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://192.168.2.1:50101/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://json.doube.eu.org/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://192.168.2.1:50101/1000000005000265032/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265032/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://json.doube.eu.org/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://192.168.2.1:50101/5000000001000032154/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000001000032154/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://json.doube.eu.org/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://192.168.2.1:50101/5000000004000011671/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000011671/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://json.doube.eu.org/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://192.168.2.1:50101/5000000001000008940/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000001000008940/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://json.doube.eu.org/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://192.168.2.1:50101/1000000002000024033/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000024033/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://json.doube.eu.org/logo/青海卫视.png" group-title="卫视频道",青海卫视
-http://192.168.2.1:50101/5000000006000040015/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040015/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://json.doube.eu.org/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://192.168.2.1:50101/1000000001000016568/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000016568/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://json.doube.eu.org/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://192.168.2.1:50101/5000000004000020424/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000020424/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://json.doube.eu.org/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://192.168.2.1:50101/5000000010000027763/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000027763/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://json.doube.eu.org/logo/山东卫视.png" group-title="卫视频道",山东卫视
-http://192.168.2.1:50101/1000000001000012807/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000012807/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://json.doube.eu.org/logo/第一财经.png" group-title="卫视频道",上海第一财经
-http://192.168.2.1:50101/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://json.doube.eu.org/logo/东方财经.png" group-title="卫视频道",上海东方财经
-http://192.168.2.1:50101/5000000007000010003/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000007000010003/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://json.doube.eu.org/logo/东方卫视.png" group-title="卫视频道",上海东方卫视
-http://192.168.2.1:50101/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://json.doube.eu.org/logo/东方卫视.png" group-title="卫视频道",上海东方卫视
-http://192.168.2.1:50101/1000000001000005866/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000005866/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://json.doube.eu.org/logo/东方卫视.png" group-title="卫视频道",上海东方卫视
-http://192.168.2.1:50101/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://json.doube.eu.org/logo/东方卫视.png" group-title="卫视频道",上海东方卫视
-http://192.168.2.1:50101/1000000001000030202/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000030202/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://json.doube.eu.org/logo/上海东方影视.png" group-title="卫视频道",上海东方影视
-http://192.168.2.1:50101/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://json.doube.eu.org/logo/上海都市.png" group-title="卫视频道",上海都市
-http://192.168.2.1:50101/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://json.doube.eu.org/logo/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
-http://192.168.2.1:50101/5000000011000031123/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031123/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://json.doube.eu.org/logo/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
-http://192.168.2.1:50101/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://json.doube.eu.org/logo/纪实人文.png" group-title="卫视频道",上海纪实人文
-http://192.168.2.1:50101/1000000001000010606/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000010606/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://json.doube.eu.org/logo/上海五星体育.png" group-title="卫视频道",上海五星体育
-http://192.168.2.1:50101/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://json.doube.eu.org/logo/上海新闻综合.png" group-title="卫视频道",上海新闻综合
-http://192.168.2.1:50101/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://192.168.2.1:50101/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://192.168.2.1:50101/6000000001000002116/bestzb/index.m3u8$8M1080_华数
+http://192.168.2.1:50101/TVOD/6000000001000002116/bestzb/index.m3u8$8M1080_华数
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://192.168.2.1:50101/1000000001000009227/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000009227/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://192.168.2.1:50101/5000000010000024026/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000024026/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://192.168.2.1:50101/1000000001000011645/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000011645/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://json.doube.eu.org/logo/四川卫视.png" group-title="卫视频道",四川卫视
-http://192.168.2.1:50101/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://json.doube.eu.org/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://192.168.2.1:50101/5000000004000006827/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006827/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://json.doube.eu.org/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://192.168.2.1:50101/1000000001000003475/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000003475/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://json.doube.eu.org/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://192.168.2.1:50101/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://json.doube.eu.org/logo/天津卫视.png" group-title="卫视频道",天津卫视
-http://192.168.2.1:50101/1000000001000000831/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000000831/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://json.doube.eu.org/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://192.168.2.1:50101/5000000011000031120/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031120/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://json.doube.eu.org/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://192.168.2.1:50101/1000000002000024694/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000024694/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://json.doube.eu.org/logo/云南卫视.png" group-title="卫视频道",云南卫视
-http://192.168.2.1:50101/5000000006000040019/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040019/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.2.1:50101/5000000004000007275/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000007275/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.2.1:50101/1000000001000014260/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000014260/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.2.1:50101/1000000005000265031/bestzb/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.2.1:50101/TVOD/1000000005000265031/bestzb/index.m3u8$5.5M1080HEVC_易视腾
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.2.1:50101/5000000010000017320/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000017320/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.2.1:50101/1000000001000009806/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000009806/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://json.doube.eu.org/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://192.168.2.1:50101/5000000004000025797/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000025797/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://json.doube.eu.org/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://192.168.2.1:50101/1000000002000018937/bestzb/index.m3u8$4M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000002000018937/bestzb/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://json.doube.eu.org/logo/中国天气.png" group-title="卫视频道",中国天气
-http://192.168.2.1:50101/5000000005000031974/bestzb/index.m3u8$3.5M576_百视通
+http://192.168.2.1:50101/TVOD/5000000005000031974/bestzb/index.m3u8$3.5M576_百视通
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://json.doube.eu.org/logo/动漫秀场.png" group-title="其他频道",SiTV动漫秀场
-http://192.168.2.1:50101/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031113/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://json.doube.eu.org/logo/动漫秀场.png" group-title="其他频道",SiTV动漫秀场
-http://192.168.2.1:50101/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://json.doube.eu.org/logo/都市剧场.png" group-title="其他频道",SiTV都市剧场
-http://192.168.2.1:50101/5000000011000031111/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031111/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://json.doube.eu.org/logo/都市剧场.png" group-title="其他频道",SiTV都市剧场
-http://192.168.2.1:50101/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://json.doube.eu.org/logo/法治天地.png" group-title="其他频道",SiTV法治天地
-http://192.168.2.1:50101/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场.png" group-title="其他频道",SiTV欢笑剧场
-http://192.168.2.1:50101/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://json.doube.eu.org/logo/金色学堂.png" group-title="其他频道",SiTV金色学堂
-http://192.168.2.1:50101/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://json.doube.eu.org/logo/劲爆体育.png" group-title="其他频道",SiTV劲爆体育
-http://192.168.2.1:50101/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://json.doube.eu.org/logo/乐游.png" group-title="其他频道",SiTV乐游
-http://192.168.2.1:50101/5000000011000031112/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031112/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://json.doube.eu.org/logo/乐游.png" group-title="其他频道",SiTV乐游
-http://192.168.2.1:50101/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://json.doube.eu.org/logo/魅力足球.png" group-title="其他频道",SiTV魅力足球
-http://192.168.2.1:50101/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://json.doube.eu.org/logo/生活时尚.png" group-title="其他频道",SiTV生活时尚
-http://192.168.2.1:50101/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://json.doube.eu.org/logo/游戏风云.png" group-title="其他频道",SiTV游戏风云
-http://192.168.2.1:50101/5000000011000031114/bestzb/index.m3u8$7M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031114/bestzb/index.m3u8$7M1080_百视通
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://json.doube.eu.org/logo/游戏风云.png" group-title="其他频道",SiTV游戏风云
-http://192.168.2.1:50101/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",华语影院
-http://192.168.2.1:50101/5000000011000288005/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288005/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",星光影院
-http://192.168.2.1:50101/5000000011000288013/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288013/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",全球大片
-http://192.168.2.1:50101/5000000011000288009/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288009/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",热门剧场
-http://192.168.2.1:50101/5000000011000288010/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288010/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",谍战剧场
-http://192.168.2.1:50101/5000000011000288004/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288004/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",青春动漫
-http://192.168.2.1:50101/5000000011000288008/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288008/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",宝宝动画
-http://192.168.2.1:50101/5000000011000288002/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288002/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",戏曲精选
-http://192.168.2.1:50101/5000000011000288012/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288012/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",热门综艺
-http://192.168.2.1:50101/5000000011000288011/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288011/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",健康养生
-http://192.168.2.1:50101/5000000011000288006/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288006/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",看天下精选
-http://192.168.2.1:50101/5000000011000288007/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288007/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="其他频道",电竞天堂
-http://192.168.2.1:50101/5000000011000288003/bestzb/index.m3u8
+http://192.168.2.1:50101/TVOD/5000000011000288003/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="湖南频道",湖南卫视
-http://192.168.2.1:50101/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="湖南频道",湖南卫视
-http://192.168.2.1:50101/1000000001000032695/bestzb/index.m3u8$8M1080_易视腾
+http://192.168.2.1:50101/TVOD/1000000001000032695/bestzb/index.m3u8$8M1080_易视腾
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="湖南频道",湖南卫视
-http://192.168.2.1:50101/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://json.doube.eu.org/logo/茶频道.png" group-title="湖南频道",湖南茶频道
-http://192.168.2.1:50101/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031209/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://json.doube.eu.org/logo/金鹰纪实.png" group-title="湖南频道",湖南金鹰纪实
-http://192.168.2.1:50101/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031203/bestzb/index.m3u8$6.8M1080_百视通
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://json.doube.eu.org/logo/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
-http://192.168.2.1:50101/5000000006000040024/bestzb/index.m3u8$4M540_百视通
+http://192.168.2.1:50101/TVOD/5000000006000040024/bestzb/index.m3u8$4M540_百视通
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://json.doube.eu.org/logo/快乐垂钓.png" group-title="湖南频道",湖南快乐垂钓
-http://192.168.2.1:50101/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.2.1:50101/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
 
 #EXTM3U
 #EXTINF:-1 group-title="虎牙影视",【周星星】星爷经典不间断
