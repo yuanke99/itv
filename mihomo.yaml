@@ -273,21 +273,21 @@ proxy-groups:
 
 # 规则匹配
 rules:
-  - RULE-SET,private_domain,DIRECT
-  - RULE-SET,proxytv,DIRECT
+  - RULE-SET,private_domain,直连
+  - RULE-SET,proxytv,直连
   - RULE-SET,ai,🤖ChatGPT
   - RULE-SET,github_domain,🚀节点选择
   - RULE-SET,youtube_domain,📹YouTube
   - RULE-SET,google_domain,🚀节点选择
-  - RULE-SET,onedrive_domain,DIRECT
-  - RULE-SET,microsoft_domain,DIRECT
+  - RULE-SET,google_ip,🚀节点选择,no-resolve
+  - RULE-SET,onedrive_domain,直连
+  - RULE-SET,microsoft_domain,直连
   - RULE-SET,tiktok_domain,🎵TikTok
   - RULE-SET,telegram_domain,📲Telegram
+  - RULE-SET,telegram_ip,📲Telegram,no-resolve
   - RULE-SET,gfw_domain,🚀节点选择
   - RULE-SET,geolocation-!cn,🚀节点选择
   - RULE-SET,cn_domain,🎯全球直连
-  - RULE-SET,google_ip,🚀节点选择,no-resolve
-  - RULE-SET,telegram_ip,📲Telegram,no-resolve
   - RULE-SET,cn_ip,🎯全球直连
   - MATCH,🐟漏网之鱼
 
