@@ -107,6 +107,7 @@ dns:
     - "*.localhost"
     - "*.test"
     - "*.local"
+    - "*.direct"
     - "*.home.arpa"
     - "ntp.ntsc.ac.cn"
     - "time.*.com"
