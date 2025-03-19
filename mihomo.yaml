@@ -237,15 +237,15 @@ dns:
     - "+.ntp.ntsc.ac.cn"
     - "+.cn.ntp.org.cn"
   default-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
+    - 111.8.14.18
+    - 2409:8050:2000::1
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
   # namesever尽量用运营商提供的DNS
   nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
- 
+    - 111.8.14.18
+    - 2409:8050:2000::1
+
 # 出站策略
 pr: &pr {type: select,  proxies: [🚀节点选择, ♻️自动选择, 🇭🇰香港节点, 🇨🇳台湾节点, 🇸🇬新加坡节点, 🇯🇵日本节点, 🇰🇷韩国节点, 🇺🇲美国节点, 🇵🇱Serv14, 🇵🇱Serv15, 🇫🇷Serv16, 🌐欧洲节点, 直连]}
 proxy-groups:
@@ -263,7 +263,7 @@ proxy-groups:
   - {name: 🇯🇵日本节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇯🇵|NRT|日本|东京|大阪|泉日|埼玉|JP|(?i)Japan))^((?!(s14|s15|s16)).)*$"}
   - {name: 🇰🇷韩国节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇰🇷|ICN|首尔|韩国))^((?!(s14|s15|s16)).)*$"}
   - {name: 🇺🇲美国节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇺🇲|SEA|西雅图|LAX|洛杉矶|SJC|圣何塞|US))^((?!(s14|s15|s16)).)*$"}
-#  - {name: 🇨🇦加拿大, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇳|TPE|台北|台湾))^((?!(s14|s15|s16)).)*$"}
+  - {name: 🇨🇦加拿大, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇦|温哥华|蒙特利尔|YYZ|YVR))^((?!(s14|s15|s16)).)*$"}
 #  - {name: 🇦🇺澳大利亚, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇳|TPE|台北|台湾))^((?!(s14|s15|s16)).)*$"}
 #  - {name: 🇷🇺俄罗斯, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇳|TPE|台北|台湾))^((?!(s14|s15|s16)).)*$"}
   - {name: 🇵🇱Serv14, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)s14"}
