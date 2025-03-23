@@ -18,6 +18,17 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # iptv
+DOMAIN-SUFFIX,haoxi.vip
+DOMAIN-SUFFIX,348z.com
+DOMAIN-SUFFIX,fenggoudy3.com
+DOMAIN-SUFFIX,3wyy.com
+DOMAIN-SUFFIX,vidhub3.top
+DOMAIN-SUFFIX,326tv.com
+DOMAIN-SUFFIX,dianyingn.cc
+DOMAIN-SUFFIX,shiyifacai.com
+DOMAIN-SUFFIX,aikanys.vip
+DOMAIN-SUFFIX,360kan.com
+DOMAIN-SUFFIX,bzhanyy.com
 DOMAIN-SUFFIX,aikun.tv
 DOMAIN-SUFFIX,xn--yetu07f.icu
 DOMAIN-SUFFIX,dm84.top
@@ -32,7 +43,7 @@ DOMAIN-SUFFIX,hanjulao.com
 DOMAIN-SUFFIX,panghuys.com
 DOMAIN-SUFFIX,psmp3.com
 DOMAIN-SUFFIX,xsmp3.com
-DODOMAIN-SUFFIX,MAIN-SUFFIX,ynf.icu
+DOMAIN-SUFFIX,ynf.icu
 DOMAIN-SUFFIX,kzjtv.com
 DOMAIN-SUFFIX,vidhub2.cc
 DOMAIN-SUFFIX,vidhub3.cc
