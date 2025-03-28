@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # iptv
+DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,dedyn.io
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cloudfront.net
