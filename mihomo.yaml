@@ -99,157 +99,28 @@ dns:
     - "rule-set:private_domain,cn_domain"
     - "+.services.googleapis.cn"
     - "+.xn--ngstr-lra8j.com"
-    - "+.media.dssott.com"
-    - "*.lan"
-    - "*.localdomain"
-    - "*.example"
-    - "*.invalid"
-    - "*.localhost"
-    - "*.test"
-    - "*.local"
-    - "*.direct"
-    - "*.home.arpa"
-    - "ntp.ntsc.ac.cn"
-    - "time.*.com"
-    - "time.*.gov"
-    - "time.*.edu.cn"
-    - "time.*.apple.com"
-    - "time-ios.apple.com"
-    - "time1.*.com"
-    - "time2.*.com"
-    - "time3.*.com"
-    - "time4.*.com"
-    - "time5.*.com"
-    - "time6.*.com"
-    - "time7.*.com"
-    - "ntp.*.com"
-    - "ntp1.*.com"
-    - "ntp2.*.com"
-    - "ntp3.*.com"
-    - "ntp4.*.com"
-    - "ntp5.*.com"
-    - "ntp6.*.com"
-    - "ntp7.*.com"
-    - "ntp.*.cn"
-    - "ntp1.*.cn"
-    - "ntp2.*.cn"
-    - "ntp3.*.cn"
-    - "ntp4.*.cn"
-    - "ntp5.*.cn"
-    - "ntp6.*.cn"
-    - "ntp7.*.cn"
-    - "*.time.edu.cn"
-    - "*.ntp.org.cn"
-    - "+.pool.ntp.org"
-    - "time1.cloud.tencent.com"
-    - "+.music.163.com"
-    - "*.126.net"
-    - "musicapi.taihe.com"
-    - "music.taihe.com"
-    - "songsearch.kugou.com"
-    - "trackercdn.kugou.com"
-    - "*.kuwo.cn"
-    - "api-jooxtt.sanook.com"
-    - "api.joox.com"
-    - "joox.com"
-    - "+.y.qq.com"
-    - "streamoc.music.tc.qq.com"
-    - "mobileoc.music.tc.qq.com"
-    - "isure.stream.qqmusic.qq.com"
-    - "dl.stream.qqmusic.qq.com"
-    - "aqqmusic.tc.qq.com"
-    - "amobile.music.tc.qq.com"
-    - "*.xiaomi.com"
-    - "+.music.migu.cn"
-    - "+.msftconnecttest.com"
-    - "+.msftncsi.com"
-    - "localhost.ptlogin2.qq.com"
-    - "localhost.sec.qq.com"
-    - "+.qq.com"
-    - "+.tencent.com"
-    - "+.srv.nintendo.net"
-    - "*.n.n.srv.nintendo.net"
-    - "+.stun.playstation.net"
-    - "xbox.*.*.microsoft.com"
-    - "*.*.xboxlive.com"
-    - "xbox.*.microsoft.com"
-    - "xnotify.xboxlive.com"
-    - "+.battlenet.com.cn"
-    - "+.wotgame.cn"
-    - "+.wggames.cn"
-    - "+.wowsgame.cn"
-    - "+.wargaming.net"
-    - "proxy.golang.org"
-    - "stun.*.*"
-    - "stun.*.*.*"
-    - "+.stun.*.*"
-    - "+.stun.*.*.*"
-    - "+.stun.*.*.*.*"
-    - "+.stun.*.*.*.*.*"
-    - "heartbeat.belkin.com"
-    - "*.linksys.com"
-    - "*.linksyssmartwifi.com"
-    - "*.router.asus.com"
-    - "mesu.apple.com"
-    - "swscan.apple.com"
-    - "swquery.apple.com"
-    - "swdownload.apple.com"
-    - "swcdn.apple.com"
-    - "swdist.apple.com"
-    - "lens.l.google.com"
-    - "stun.l.google.com"
-    - "na.b.g-tun.com"
-    - "*.square-enix.com"
-    - "*.finalfantasyxiv.com"
-    - "*.ffxiv.com"
-    - "*.ff14.sdo.com"
-    - "ff.dorado.sdo.com"
-    - "*.mcdn.bilivideo.cn"
-    - "shark007.net"
-    - "Mijia Cloud"
-    - "+.cmbchina.com"
-    - "+.cmbimg.com"
-    - "local.adguard.org"
-    - "+.sandai.net"
-    - "+.n0808.com"
-    - "+.services.googleapis.cn"
-    - "+.xn--ngstr-lra8j.cn"
-    - "+.mijia.tech"
-    - "+.mi.com"
-    - "+.xiaomi.net"
-    - "time.is"
-    - "+.wechat.com"
-    - "+.weixin.qq.com"
-    - "localhost.work.weixin.qq.com"
-    - "*.microsoftonline.com"
-    - "*.msftconnecttest.com"
-    - "*.msftncsi.com"
-    - "+.steamcontent.com"
-    - "time.windows.com"
-    - "+.cmpassport.com"
-    - "+.logon.battle.net"
-    - "+.logon.battlenet.com.cn"
-    - "+.pingan.com.cn"
     - "time.*.com"
     - "+.pool.ntp.org"
     - "+.ntp.tencent.com"
     - "+.ntp1.aliyun.com"
     - "+.ntp.ntsc.ac.cn"
     - "+.cn.ntp.org.cn"
+
   default-nameserver:
     - 111.8.14.18
-    - 2409:8050:2000::1
+    - 211.142.211.124
   proxy-server-nameserver:
-    - https://dns.alidns.com/dns-query
+    - 111.8.14.18
+    - 211.142.211.124
   # namesever尽量用运营商提供的DNS
   nameserver:
     - 111.8.14.18
-    - 2409:8050:2000::1
+    - 211.142.211.124
 
 # 出站策略
-pr: &pr {type: select,  proxies: [🚀节点选择, ♻️自动选择, 🇭🇰香港节点, 🇨🇳台湾节点, 🇸🇬新加坡节点, 🇯🇵日本节点, 🇰🇷韩国节点, 🇺🇲美国节点, 🇵🇱Serv14, 🇵🇱Serv15, 🇫🇷Serv16, 🌐欧洲节点, 直连]}
+pr: &pr {type: select,  proxies: [🚀节点选择, ♻️自动选择, 🇭🇰香港节点, 🇨🇳台湾节点, 🇸🇬新加坡节点, 🇯🇵日本节点, 🇰🇷韩国节点, 🇺🇲美国节点, 🇵🇱Serv00, 🇵🇱Serv15, 🌐欧洲节点, 🌐HY2节点, 直连]}
 proxy-groups:
-  - {name: 🚀节点选择, type: select, include-all: true, proxies: [ ♻️自动选择, 🇭🇰香港节点, 🇨🇳台湾节点, 🇸🇬新加坡节点, 🇯🇵日本节点, 🇰🇷韩国节点, 🇺🇲美国节点, 🇵🇱Serv14, 🇵🇱Serv15, 🇫🇷Serv16, 🌐欧洲节点]}
+  - {name: 🚀节点选择, type: select, include-all: true, proxies: [ ♻️自动选择, 🇭🇰香港节点, 🇨🇳台湾节点, 🇸🇬新加坡节点, 🇯🇵日本节点, 🇰🇷韩国节点, 🇺🇲美国节点, 🇵🇱Serv00, 🇵🇱Serv15, 🌐欧洲节点, 🌐HY2节点]}
   - {name: ♻️自动选择, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"}
   - {name: 📹YouTube, <<: *pr}
   - {name: 🤖ChatGPT, <<: *pr}
@@ -266,15 +137,16 @@ proxy-groups:
   - {name: 🇨🇦加拿大, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇦|温哥华|蒙特利尔|YYZ|YVR))^((?!(s14|s15|s16)).)*$"}
 #  - {name: 🇦🇺澳大利亚, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇳|TPE|台北|台湾))^((?!(s14|s15|s16)).)*$"}
 #  - {name: 🇷🇺俄罗斯, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(🇨🇳|TPE|台北|台湾))^((?!(s14|s15|s16)).)*$"}
-  - {name: 🇵🇱Serv14, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)s14"}
-  - {name: 🇵🇱Serv15, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)s15"}
-  - {name: 🇫🇷Serv16, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)s16"}
+  - {name: 🇵🇱Serv00, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(s14|s16))^((?!(hy2|reality)).)*$"}
+  - {name: 🇵🇱Serv15, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(s15))^((?!(hy2|reality)).)*$"}
   - {name: 🌐欧洲节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(FRA|法兰克福|MXP|米兰|MRS|马赛|CDG|巴黎))^((?!(s14|s15|s16)).)*$"}
-
+  - {name: 🌐HY2节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)hy2"}
 # 规则匹配
 rules:
   - RULE-SET,private_domain,直连
-  - RULE-SET,proxytv,直连
+  - RULE-SET,itv,直连
+  - RULE-SET,localareanetwork,直连
+  - RULE-SET,ChinaDomain,直连
   - RULE-SET,ai,🤖ChatGPT
   - RULE-SET,github_domain,🚀节点选择
   - RULE-SET,youtube_domain,📹YouTube
@@ -287,8 +159,7 @@ rules:
   - RULE-SET,telegram_ip,📲Telegram,no-resolve
   - RULE-SET,gfw_domain,🚀节点选择
   - RULE-SET,geolocation-!cn,🚀节点选择
-  - RULE-SET,cn_domain,🎯全球直连
-  - RULE-SET,cn_ip,🎯全球直连
+  - RULE-SET,cn_ip,直连
   - MATCH,🐟漏网之鱼
 
 # 规则集
@@ -297,8 +168,10 @@ rule-anchor:
   domain: &domain {type: http, interval: 86400, behavior: domain, format: mrs}
   class: &class {type: http, interval: 86400, behavior: classical, format: text}
 rule-providers: 
+  localareanetwork: { <<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"}
+  itv: { <<: *class, url: "https://raw.githubusercontent.com/yuanke99/itv/refs/heads/main/itv.list"}
+  ChinaDomain: { <<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/ChinaDomain.list"}
   private_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
-  proxytv: { <<: *class, url: "https://raw.githubusercontent.com/yuanke99/itv/refs/heads/main/itv.list"}
   ai: {  <<: *domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ai-chat-!cn.mrs" }
   youtube_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"}
   google_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
@@ -310,6 +183,5 @@ rule-providers:
   tiktok_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
   gfw_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.mrs"}
   geolocation-!cn: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs"}
-  cn_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
   cn_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
   google_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs"}
