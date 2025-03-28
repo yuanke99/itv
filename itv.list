@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # iptv
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,jmp2.uk
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,ghproxy.link
 DOMAIN-SUFFIX,fanmingming.com
